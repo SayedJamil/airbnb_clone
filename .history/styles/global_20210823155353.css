@@ -1,0 +1,9 @@
+@tailwind components;
+
+@layer components{
+    .button{
+        @apply{
+            
+        }
+    }
+}
